@@ -1,3 +1,3 @@
-"hello world"
 
-hello_world
+
+putd hello_world => "hello world"
